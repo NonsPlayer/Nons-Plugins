@@ -17,6 +17,8 @@
 1. Fork 本仓库
 2. 在 `plugins` 目录下创建一个 JSON 文件，内容如下
 
+预览图片最好是2:1的比例，建议800x400
+
 ```js
 {
     "name": "ExamplePlugin", // 插件名
